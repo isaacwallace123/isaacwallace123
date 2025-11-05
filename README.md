@@ -1,50 +1,68 @@
-# Hi, I’m Isaac 👋
+# 👋 Hi there! I'm Isaac
 
-Builder of practical tools and hosting infra. I like clean APIs, resilient services, and shipping.
+I’m a Software Developer passionate about **system design**, **backend infrastructure**, and **developer tooling**.  
+My journey began with game development and automation projects, evolving into a focus on **Go**, **TypeScript**, and **Dockerized microservices**.
 
-- 🔭 Current focus: **Kleff Hosting** (self-hosted PaaS + game/web hosting)
-- ⚙️ Languages/stack: Go · TypeScript/Node · Java · Rust · Docker · Nginx · Proxmox
-- 🎯 Interests: systems design, CI/CD, observability, and developer ergonomics
-
----
-
-## Featured Projects
-
-- **GoWeb** — A Spring-style web framework in Go (controllers, DTOs, middleware)  
-  🔗 https://github.com/isaacwallace123/GoWeb
-
-- **GS-Daemon** — Game-server deployment daemon (Docker lifecycle, labels, IDs)  
-  🔗 https://github.com/isaacwallace123/GS-Daemon
-
-- **SmartGrow** — TS app (IoT/automation concepts)  
-  🔗 https://github.com/isaacwallace123/SmartGrow
-
-- **LibraryMicroservice** — Java microservices demo (gateway + services)  
-  🔗 https://github.com/isaacwallace123/LibraryMicroservice
-
-- **WallY-V2** — Discord bot with music + MongoDB  
-  🔗 https://github.com/isaacwallace123/WallY-V2
-
-- **portfolio** — My personal site (React + Tailwind)  
-  🔗 https://github.com/isaacwallace123/portfolio
+I’m currently building **Kleff Hosting** — a self-hosted PaaS for **web and game server hosting**, inspired by modern platforms like Vercel and Pterodactyl.
 
 ---
 
-## What I’m building next
+### 🧠 About Me
 
-- 🐳 Cleaner container orchestration for game servers (metrics, logs, autoscale)
-- 🧩 SDKs for auth & control-plane APIs (TS/Go/Java)
-- 📈 Simple Grafana dashboards for “hoster” workloads
+- 🎯 Focused on scalability, CI/CD, and API architecture  
+- ⚙️ Stack: Go · TypeScript · Java · Rust · Docker · Nginx · Linux  
+- 🧩 Exploring: Auth systems, SDK design, and cross-language integrations  
+- 🖥️ DevOps tools: Proxmox · Portainer · Grafana · Prometheus  
+- 💡 Fun fact: I built my own **Spring Boot–style framework in Go**!
 
 ---
 
-## Get in touch
+### 🔗 Check out my work
 
-- Open an issue on any repo or ping me here on GitHub.
+- 🦦 [GoWeb](https://github.com/isaacwallace123/GoWeb) — Spring-style Go web framework  
+- 🧩 [GS-Daemon](https://github.com/isaacwallace123/GS-Daemon) — Container lifecycle manager for game servers  
+- 🌿 [SmartGrow](https://github.com/isaacwallace123/SmartGrow) — IoT-inspired automation system  
+- 📚 [LibraryMicroservice](https://github.com/isaacwallace123/LibraryMicroservice) — Java microservices demo  
+- 🤖 [WallY-V2](https://github.com/isaacwallace123/WallY-V2) — Discord bot with MongoDB + music system  
+- 🖼️ [Portfolio](https://github.com/isaacwallace123/portfolio) — My personal React + Tailwind portfolio site  
 
-<!-- Badges (optional): comment out if you don’t want them)
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?logo=openjdk&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
--->
+---
+
+### ⚡ GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=isaacwallace123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacwallace123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
+
+</div>
+
+---
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=isaacwallace123&theme=onedark&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+### 🧩 Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,typescript,java,rust,react,nodejs,docker,nginx,mongodb,linux,git,figma" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/isaacwallace123"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/isaacwallace"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://isaacwallace123.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-e7a042?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
+
+---
+
+> 💬 *“Building systems that empower others to build theirs.”*
