@@ -17,6 +17,14 @@ I’m currently building **[Kleff Hosting](https://github.com/kleffio)** — a s
 
 ---
 
+### 🧩 Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,typescript,java,rust,react,nodejs,docker,nginx,mongodb,linux,git,figma" />
+</p>
+
+---
+
 ## ☁️ Kleff Hosting
 
 Kleff (similar to the french word for "key") is my flagship project — a self-hosted, modular cloud platform for running everything from web apps to dedicated game servers.  
@@ -58,14 +66,6 @@ Explore the organization → [github.com/kleffio](https://github.com/kleffio)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=isaacwallace123&theme=onedark&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
-</p>
-
----
-
-### 🧩 Skills & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,typescript,java,rust,react,nodejs,docker,nginx,mongodb,linux,git,figma" />
 </p>
 
 ---
