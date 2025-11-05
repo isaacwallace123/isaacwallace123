@@ -59,8 +59,8 @@ I’m currently building **Kleff Hosting** — a self-hosted PaaS for **web and 
 
 <p align="center">
   <a href="https://github.com/isaacwallace123"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/isaacwallace"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://isaacwallace123.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-e7a042?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/isaac-wallace"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://isaacwallace.dev/"><img src="https://img.shields.io/badge/Portfolio-e7a042?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
