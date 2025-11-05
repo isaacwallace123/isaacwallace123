@@ -3,7 +3,7 @@
 I’m a Software Developer passionate about **system design**, **backend infrastructure**, and **developer tooling**.  
 My journey began with game development and automation projects, evolving into a focus on **Go**, **TypeScript**, and **Dockerized microservices**.
 
-I’m currently building **Kleff Hosting** — a self-hosted PaaS for **web and game server hosting**, inspired by modern platforms like Vercel and Pterodactyl.
+I’m currently building **[Kleff Hosting](https://github.com/kleffio)** — a self-hosted PaaS that powers **web and game server hosting** with a modern, open, and developer-friendly ecosystem inspired by platforms like Vercel and Pterodactyl.
 
 ---
 
@@ -17,7 +17,24 @@ I’m currently building **Kleff Hosting** — a self-hosted PaaS for **web and 
 
 ---
 
-### 🔗 Check out my work
+## ☁️ Kleff Hosting
+
+Kleff is my flagship project — a self-hosted, modular cloud platform for running everything from web apps to dedicated game servers.  
+It’s built to be **developer-first**, with **clean APIs**, **Docker-based isolation**, and **per-container lifecycle management**.
+
+### 🚀 Core Goals
+
+- 🧩 **Unified platform** for web, VPS, and game server hosting  
+- 🐳 **Containerized orchestration** with custom daemons and SDKs  
+- 🔐 **Secure and extensible** authentication and tenant management  
+- ⚙️ **Observability-driven design** with Prometheus + Grafana metrics  
+- 💡 **Open-source core** to give developers full control over their infrastructure  
+
+Explore the organization → [github.com/kleffio](https://github.com/kleffio)
+
+---
+
+### 🔗 Check Out My Work
 
 - 🦦 [GoWeb](https://github.com/isaacwallace123/GoWeb) — Spring-style Go web framework  
 - 🧩 [GS-Daemon](https://github.com/isaacwallace123/GS-Daemon) — Container lifecycle manager for game servers  
@@ -31,10 +48,8 @@ I’m currently building **Kleff Hosting** — a self-hosted PaaS for **web and 
 ### ⚡ GitHub Stats
 
 <div align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api?username=isaacwallace123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacwallace123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
-
 </div>
 
 ---
