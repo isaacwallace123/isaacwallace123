@@ -19,7 +19,7 @@ I’m currently building **[Kleff Hosting](https://github.com/kleffio)** — a s
 
 ## ☁️ Kleff Hosting
 
-Kleff is my flagship project — a self-hosted, modular cloud platform for running everything from web apps to dedicated game servers.  
+Kleff (similar to the french word for "key") is my flagship project — a self-hosted, modular cloud platform for running everything from web apps to dedicated game servers.  
 It’s built to be **developer-first**, with **clean APIs**, **Docker-based isolation**, and **per-container lifecycle management**.
 
 ### 🚀 Core Goals
