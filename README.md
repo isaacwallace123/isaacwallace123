@@ -1,27 +1,14 @@
+<div align="center">
+
 # Isaac Wallace
 
-Software developer focused on infrastructure, systems design, and developer tooling.  
-Currently building **[Kleff](https://github.com/kleffio)** — a self-hosted PaaS for web and game server hosting.
+software developer from montreal. building infrastructure, distributed systems, and developer tooling.  
+currently working on **[Kleff](https://github.com/kleffio)** — a self-hosted PaaS for web and game server hosting.
 
----
+<br/>
 
-**Stack** — Go · TypeScript · Java · Rust · Docker · Linux · Kubernetes  
-**Interests** — Distributed systems · API design · Observability · Auth
+[![Portfolio](https://img.shields.io/badge/Portfolio-e7a042?style=for-the-badge&logo=firefox&logoColor=white)](https://isaacwallace.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-wallace)
+[![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isaacwallace123)
 
----
-
-### Projects
-
-| | |
-|---|---|
-| [Kleff](https://github.com/kleffio) | Self-hosted PaaS for web and game server hosting |
-| [homelab-k8s](https://github.com/isaacwallace123/homelab-k8s) | Production k3s cluster — GitOps, Longhorn, Envoy, ArgoCD |
-| [agent-k8s](https://github.com/isaacwallace123/agent-k8s) | AI agent infrastructure on Kubernetes |
-| [portfolio-v2](https://github.com/isaacwallace123/portfolio-v2) | Personal portfolio — Next.js, MinIO, PostgreSQL |
-| [GS-Daemon](https://github.com/isaacwallace123/GS-Daemon) | Container lifecycle manager for game servers |
-| [WallY-V2](https://github.com/isaacwallace123/WallY-V2) | Discord bot with MongoDB and music system |
-| [SmartGrow](https://github.com/isaacwallace123/SmartGrow) | IoT automation and sensor system |
-
----
-
-[Portfolio](https://isaacwallace.dev) · [LinkedIn](https://linkedin.com/in/isaac-wallace)
+</div>
